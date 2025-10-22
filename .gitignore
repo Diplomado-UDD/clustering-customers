@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Project-specific outputs (keep structure, ignore contents)
+outputs/data/*.csv
+outputs/visualizations/*.png
+outputs/visualizations/*.html
+outputs/reports/*.md
+outputs/logs/*.log
+outputs/experiments/*/
+
+# Keep directory structure
+!outputs/data/.gitkeep
+!outputs/visualizations/.gitkeep
+!outputs/reports/.gitkeep
+!outputs/logs/.gitkeep
+!outputs/experiments/.gitkeep
+
+# Environment and config
+.env
+.env.local
+*.yaml
+!config.example.yaml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/

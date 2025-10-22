@@ -1,0 +1,11 @@
+{
+  "python_version": "3.11.10 (main, Oct 16 2024, 08:56:36) [Clang 18.1.8 ]",
+  "platform": "macOS-15.6.1-arm64-i386-64bit",
+  "processor": "i386",
+  "timestamp": "2025-10-22T19:42:50.956364",
+  "packages": {
+    "pandas": "2.3.3",
+    "numpy": "2.3.4",
+    "scikit-learn": "1.7.2"
+  }
+}
