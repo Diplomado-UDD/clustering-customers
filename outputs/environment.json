@@ -1,8 +1,8 @@
 {
-  "python_version": "3.11.10 (main, Oct 16 2024, 08:56:36) [Clang 18.1.8 ]",
-  "platform": "macOS-15.6.1-arm64-i386-64bit",
-  "processor": "i386",
-  "timestamp": "2025-10-22T19:42:50.956364",
+  "python_version": "3.11.14 (main, Oct 14 2025, 21:26:53) [Clang 20.1.4 ]",
+  "platform": "Linux-6.8.0-1030-azure-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "timestamp": "2025-10-22T22:58:15.537429",
   "packages": {
     "pandas": "2.3.3",
     "numpy": "2.3.4",
